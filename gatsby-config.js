@@ -27,7 +27,7 @@ module.exports = {
       options: {
         // the only required plugin option for WordPress is the GraphQL url.
         url:
-          `http://robcodes.de/graphql`,
+          `https://robcodes.de/graphql`,
       },
     },
 
